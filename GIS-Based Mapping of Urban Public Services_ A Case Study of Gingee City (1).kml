@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml hint="UintaKML-1.0" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+  <Folder id="UintaKML-1.0">
+    <name>public service mapping</name>
+    <open>true</open>
+    <Document id="Line">
+      <name>Line</name>
+      <Style id="s_Line">
+        <IconStyle>
+          <color>ff3539e5</color>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Schema id="d_Line" name="Line">
+        <SimpleField type="string" name="Name">
+          <displayName>Name</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Description">
+          <displayName>Description</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Attachments">
+          <displayName>Attachments</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Line Geometry">
+          <displayName>Line Geometry</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Date/Time">
+          <displayName>Date/Time</displayName>
+        </SimpleField>
+        <SimpleField name="User">
+          <displayName>User</displayName>
+        </SimpleField>
+      </Schema>
+      <Placemark id="zEZaaO6XMWY0">
+        <name>Gandhi Bazaar</name>
+        <Style>
+          <IconStyle>
+            <color>ff000000</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff000000</color>
+            <width>5</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Line">
+            <SimpleData name="Name">Gandhi Bazaar </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Line Geometry">distance: 1620.0 ft</SimpleData>
+            <SimpleData name="Date/Time">14/09/2025 5:32 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>79.416968822479248,12.255159464976581
+79.416985586285591,12.25549070461612
+79.417010731995106,12.255997556157427
+79.417010731995106,12.256405788817366
+79.417001008987427,12.256874960724804
+79.416976198554039,12.257699285881472
+79.416946023702621,12.258345376770615
+79.416910819709301,12.259060923859305
+79.41686287522316,12.259590047403643</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="zE7ZHqsDNpV0">
+        <name>Villupuram Rd</name>
+        <Style>
+          <IconStyle>
+            <color>ff000000</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff000000</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Line">
+            <SimpleData name="Name">Villupuram Rd</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Line Geometry">distance: 1052.0 ft</SimpleData>
+            <SimpleData name="Date/Time">14/09/2025 5:30 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>79.416772685945034,12.251323804158995
+79.41675927489996,12.251109527108667
+79.41674217581749,12.250760916979109
+79.416701272130013,12.250248157821938
+79.416671097278595,12.249805840815615
+79.416629858314991,12.249089613335428
+79.416585601866245,12.24844939737344</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="zDCN6XKP4fHE">
+        <name>Maharaja Textiles</name>
+        <Style>
+          <IconStyle>
+            <color>ff000000</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff000000</color>
+            <width>5</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Line">
+            <SimpleData name="Name">Maharaja Textiles </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Line Geometry">distance: 3471.4 ft</SimpleData>
+            <SimpleData name="Date/Time">14/09/2025 5:27 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>79.415752775967121,12.252727085188685
+79.415883533656597,12.252747071159234
+79.416040778160095,12.252734620882666
+79.416213780641556,12.252712341438919
+79.416512511670589,12.252674007685723
+79.416778050363064,12.252647796569217
+79.416839070618153,12.252670403657362
+79.416845105588436,12.252781800874985
+79.416854158043861,12.252990506711956
+79.416872933506966,12.253415125927136
+79.416900426149368,12.253798134494049
+79.416907131671906,12.253933448765013
+79.416869580745697,12.253958349204412
+79.416744187474251,12.253983249641445
+79.416371360421181,12.254011426448946
+79.416240938007832,12.254060572036231
+79.416174553334713,12.254177538497133
+79.416227862238884,12.254333821334543
+79.416452161967754,12.254365929746701
+79.416734799742699,12.254356755915051
+79.416906796395779,12.254362325741441
+79.416934624314308,12.254455046951778
+79.416938647627831,12.254671942376595
+79.416943676769733,12.255013994617681
+79.416969157755375,12.255154550438739
+79.416996315121651,12.255056259662654
+79.416994638741016,12.254957641213853
+79.416987597942352,12.254771543841224
+79.416987262666225,12.254538266667582
+79.416964799165726,12.254342339893253
+79.41694300621748,12.254144774787829
+79.416943676769733,12.25399963150665
+79.416952729225159,12.253906582498821
+79.416950382292271,12.253750299408303
+79.416947029531002,12.253602534807797
+79.416925236582756,12.253364342029199
+79.416914843022823,12.253179881724146
+79.416905790567398,12.252974124784094
+79.416895061731339,12.252771644071792
+79.416893720626831,12.252679577547646
+79.416908137500286,12.2526533664317
+79.416950717568398,12.252614049752889
+79.417075775563717,12.252604220582274
+79.417284652590752,12.252576371263537
+79.417816065251827,12.252511171082284
+79.418733045458794,12.25240730945375
+79.419143088161945,12.252328348377562</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="zDDGQNyIRTUk">
+        <name>Thindivanam Rd</name>
+        <Style>
+          <IconStyle>
+            <color>ff000000</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff000000</color>
+            <width>5</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Line">
+            <SimpleData name="Name">Thindivanam Rd</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Line Geometry">distance: 173.9 ft</SimpleData>
+            <SimpleData name="Date/Time">14/09/2025 5:21 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>79.423968382179737,12.251963030227893
+79.423908367753029,12.251952545753348
+79.423797391355038,12.251935508481326
+79.423620700836182,12.251939112519739
+79.42349798977375,12.251999398245729</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="zAZBhMSPQiKE">
+        <name>Tiruvannamalai Rd</name>
+        <Style>
+          <IconStyle>
+            <color>ff000000</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff000000</color>
+            <width>5</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Line">
+            <SimpleData name="Name">Tiruvannamalai Rd </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Line Geometry">distance: 1.9 mi</SimpleData>
+            <SimpleData name="Date/Time">14/09/2025 1:36 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>79.398647993803024,12.255447129098778
+79.398815631866455,12.255452698902142
+79.39901914447546,12.255457285798945
+79.399281665682793,12.255468753040613
+79.399469755589962,12.2554834966363
+79.399786926805973,12.255464821414954
+79.400127232074738,12.255415020818219
+79.400529228150845,12.2553426133549
+79.401015043258667,12.255252185906734
+79.401580654084682,12.255149308264937
+79.402147606015205,12.255009735349203
+79.402701482176781,12.25487212817688
+79.403102472424507,12.254770888568565
+79.403517208993435,12.254666700193201
+79.403916522860527,12.254579876515646
+79.404245428740978,12.254491414626088
+79.404649771749973,12.254386570866734
+79.405106082558632,12.254276484874545
+79.405350498855114,12.254226356416451
+79.405441023409367,12.254204732372774
+79.405687786638737,12.254172296303919
+79.405939243733883,12.254147395884722
+79.406272172927856,12.254109717614357
+79.406521618366241,12.254091697570113
+79.406865611672401,12.254057623301252
+79.407186470925808,12.254017651557181
+79.407553933560848,12.253980628542921
+79.408280812203884,12.253902323212456
+79.409088492393494,12.25382565604632
+79.409691318869591,12.253762094361768
+79.410144612193108,12.253730313513742
+79.410565383732319,12.253651025195804
+79.411225877702236,12.253488189195386
+79.412162303924561,12.253246719931287
+79.412777535617352,12.253129097780933
+79.413510113954544,12.253015079601843
+79.414062313735485,12.25295381119215
+79.415156990289688,12.252811616004649
+79.415590167045593,12.252752968658466
+79.415774904191494,12.252720860049994
+79.416077993810177,12.252681215742308
+79.416374042630196,12.252637312121898
+79.416755586862564,12.252587183352338
+79.416830353438854,12.252559989309962
+79.416827671229839,12.252352921329113
+79.416805543005466,12.252113416863761
+79.416786767542362,12.251703211720358
+79.416761621832848,12.251398506209037
+79.416774362325668,12.251334943939733
+79.416804537177086,12.25138409002559
+79.41682331264019,12.251536770473921
+79.416836053133011,12.251684863871583
+79.416846446692944,12.251901106294085
+79.416871257126331,12.252244145046213
+79.416890032589436,12.252420742663515
+79.416901431977749,12.252495444402983
+79.416943676769733,12.252519362060719
+79.417004361748695,12.252531484708324
+79.417164288461208,12.252518706782437
+79.417480118572712,12.252488563980503
+79.417962245643139,12.252432210037178
+79.418522827327251,12.252362750509091
+79.418977797031403,12.252344402706168
+79.419492110610008,12.25229394624154
+79.420838914811611,12.252136023997691
+79.421444423496723,12.252086222772556
+79.422441869974136,12.252020694830424
+79.423369579017162,12.251961064388951
+79.42349698394537,12.252004640482124
+79.423571415245533,12.252087533331233
+79.42367535084486,12.25216518392121
+79.423764534294605,12.252183859376137
+79.423837289214134,12.252196964957767</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="zZpWFV0IUWJU">
+        <name>Line 3</name>
+        <Style>
+          <IconStyle>
+            <color>ff000000</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff000000</color>
+            <width>5</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Line">
+            <SimpleData name="Name">Line 3</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Line Geometry">distance: 191.1 ft</SimpleData>
+            <SimpleData name="Date/Time">14/09/2025 1:29 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>79.398023709654808,12.255669593506617
+79.39810685813427,12.255625362748283
+79.398220181465149,12.255562129132743
+79.398338533937931,12.255482513729959
+79.398389495909214,12.255429436781407
+79.39848069101572,12.255416003724829</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="zZnYT7EsgSvE">
+        <name>Line 2</name>
+        <Style>
+          <IconStyle>
+            <color>ff000000</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff000000</color>
+            <width>5</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Line">
+            <SimpleData name="Name">Line 2</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Line Geometry">distance: 453.6 ft</SimpleData>
+            <SimpleData name="Date/Time">14/09/2025 1:27 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>79.398186653852463,12.255764607703158
+79.398296624422073,12.255682043644667
+79.398368373513222,12.255578510899873
+79.398432746529579,12.255472684666209
+79.398482032120228,12.255417314266966
+79.398578926920891,12.255427470968304
+79.398646987974644,12.255447784369757
+79.398482032120228,12.255537556480126
+79.398454539477825,12.255624052207176
+79.398472979664803,12.255764607703158
+79.398551434278488,12.255952997819225</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="zZjhOPwKWv30">
+        <name>Tiruvannamalai Rd</name>
+        <Style>
+          <IconStyle>
+            <color>ff000000</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff000000</color>
+            <width>5</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Line">
+            <SimpleData name="Name">Tiruvannamalai Rd</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Line Geometry">distance: 4.5 mi</SimpleData>
+            <SimpleData name="Date/Time">14/09/2025 12:39 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>79.381769523024559,12.252194016201949
+79.382159784436226,12.252569490843154
+79.382640905678272,12.253049809282288
+79.383114986121655,12.253600568981067
+79.383310452103615,12.253809929445376
+79.38348613679409,12.253922309094001
+79.384014196693897,12.254093008118813
+79.384539574384689,12.25422242477228
+79.384965039789677,12.254322026406649
+79.385432749986649,12.254419006909227
+79.385680183768272,12.254447183670191
+79.386407397687435,12.254324975138664
+79.387156739830971,12.254186384697949
+79.38752856105566,12.254150672255802
+79.388075396418571,12.254142808965133
+79.388603121042252,12.254135273311364
+79.389602243900299,12.254161484280077
+79.390579909086227,12.254305316924553
+79.391827136278152,12.254505830639745
+79.393639303743839,12.254781700567408
+79.394995830953121,12.25504020549908
+79.397031292319298,12.255365547847701
+79.397971071302891,12.255666644789628
+79.398919567465782,12.256163666954855
+79.39919114112854,12.256385803124006
+79.399795308709145,12.256976854792711
+79.400297217071056,12.25763146590425
+79.400947652757168,12.258515745301192
+79.402086921036243,12.260061179424428
+79.402458071708679,12.260511669964352
+79.403092414140701,12.261090917760145
+79.403931275010109,12.261699323152678
+79.405050091445446,12.262189781404913
+79.406387843191624,12.262770991271976
+79.40838910639286,12.263773526136957
+79.409323185682297,12.264450726451679
+79.41084198653698,12.265445064350985
+79.411964826285839,12.265912909682562
+79.413244239985943,12.266442347095245
+79.414004981517792,12.266722791234377
+79.414779134094715,12.266862357949417
+79.415559321641922,12.266792902222539
+79.416171200573444,12.266689046219426
+79.416890703141689,12.266380754183583
+79.417617246508598,12.266034785220803
+79.418235160410404,12.265738286837324
+79.418982826173306,12.265405749579411
+79.419569224119186,12.265120062063147
+79.420285038650036,12.264787851649084
+79.420908652245998,12.264462848550805
+79.421462863683701,12.264153243412084
+79.421968460083008,12.263786303517479
+79.422238692641258,12.263502907624272
+79.422954842448235,12.262636992041992
+79.423465467989445,12.26183790964509
+79.423673674464226,12.261334345611267
+79.423992186784744,12.260469733422942
+79.424287565052509,12.259791212361133
+79.424617476761341,12.258954443760746
+79.424889385700226,12.258045593415952
+79.424983263015747,12.257302522385643
+79.424898773431778,12.256397597959626
+79.424787797033787,12.255938909519553
+79.424654692411423,12.255379308542427
+79.424452185630798,12.254674235831803
+79.424273483455181,12.254054674566248
+79.42411657422781,12.253470496746646
+79.423964023590088,12.25291482219674
+79.423817172646523,12.252353248968443
+79.423843324184418,12.252198275515884
+79.423983469605446,12.251964996066823
+79.424195028841496,12.251917488288575
+79.424626864492893,12.251880464979594
+79.425170682370663,12.251763497500278
+79.425680637359619,12.251600332694599
+79.426241554319859,12.251376554293021
+79.426949322223663,12.25115244806082
+79.427691288292408,12.250931618049348
+79.428197555243969,12.250777626685675
+79.428742378950119,12.250617082402343
+79.429235234856606,12.250480455863869
+79.429627172648907,12.250356934927671
+79.430104605853558,12.25021047899472
+79.430502578616142,12.250076473383068
+79.430885463953018,12.2499339490026</coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+    <Document id="Point">
+      <name>Point</name>
+      <Style id="s_Point">
+        <IconStyle>
+          <color>ff3539e5</color>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Schema id="d_Point" name="Point">
+        <SimpleField type="string" name="Name">
+          <displayName>Name</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Description">
+          <displayName>Description</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Attachments">
+          <displayName>Attachments</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Location">
+          <displayName>Location</displayName>
+        </SimpleField>
+        <SimpleField type="double" name="Latitude (WGS 84)">
+          <displayName>Latitude (WGS 84)</displayName>
+        </SimpleField>
+        <SimpleField type="double" name="Longitude (WGS 84)">
+          <displayName>Longitude (WGS 84)</displayName>
+        </SimpleField>
+        <SimpleField type="double" name="Elevation (ft)">
+          <displayName>Elevation (ft)</displayName>
+        </SimpleField>
+        <SimpleField type="double" name="Accuracy (ft)">
+          <displayName>Accuracy (ft)</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Date/Time">
+          <displayName>Date/Time</displayName>
+        </SimpleField>
+        <SimpleField name="User">
+          <displayName>User</displayName>
+        </SimpleField>
+      </Schema>
+      <Placemark id="zC3ukjhKG9Lk">
+        <name>Women Police Station</name>
+        <Style>
+          <IconStyle>
+            <color>ff3539f5</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Women Police Station</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25248234°, 79.41641897°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25248234</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41641897</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">16/09/2025 6:21 am</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.416418969631195,12.252482338836188</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDAC6wkR6TME">
+        <name>Elephant Pond</name>
+        <styleUrl>#s_Point</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Elephant Pond</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.24916563°, 79.39979699°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.24916563</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.39979699</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 5:05 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.399796985089779,12.249165626591124</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDkZkQ7YfPS0">
+        <name>Fort Bridge</name>
+        <styleUrl>#s_Point</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Fort Bridge </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25047521°, 79.39330772°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25047521</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.39330772</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 5:04 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.393307715654373,12.250475213597195</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDvCrjFzv26k">
+        <name>Royal Palace</name>
+        <styleUrl>#s_Point</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Royal Palace </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.24987628°, 79.40024558°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.24987628</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.40024558</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 5:04 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.40024558454752,12.249876283944026</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDtytmOzwO5k">
+        <name>Gingee Fort</name>
+        <styleUrl>#s_Point</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Gingee Fort </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.24926392°, 79.39495258°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.24926392</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.39495258</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 5:04 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.394952580332756,12.249263919561729</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zD7AQoFfcCwE">
+        <name>Sri Jai Veera Anjaneyar Temple</name>
+        <Style>
+          <IconStyle>
+            <color>ff0fc4f1</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Sri Jai Veera Anjaneyar Temple </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.24620601°, 79.39767268°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.24620601</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.39767268</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 5:03 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.397672675549984,12.24620600810119</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDkiS4HFuUe8">
+        <name>Gingee Fort Ticket Counter</name>
+        <styleUrl>#s_Point</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Gingee Fort Ticket Counter</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25007156°, 79.40208927°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25007156</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.40208927</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 5:03 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.402089267969131,12.250071558750548</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zD0sAJMxJPEi">
+        <name>Sri Ekambaraswar Temple</name>
+        <Style>
+          <IconStyle>
+            <color>ff0fc4f1</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Sri Ekambaraswar Temple </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25290794°, 79.40254223°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25290794</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.40254223</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 5:02 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.402542226016521,12.2529079417852</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDgOoLe95106">
+        <name>Archaeological Survey of India Gingee Sub-circle</name>
+        <Style>
+          <IconStyle>
+            <color>ff2f6b55</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Archaeological Survey of India Gingee Sub-circle</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25358943°, 79.40377235°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25358943</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.40377235</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 5:02 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.403772354125977,12.253589429295998</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDoPXYP47TVU">
+        <name>Hero Bike Showroom</name>
+        <Style>
+          <IconStyle>
+            <color>ff0045ff</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Hero Bike Showroom </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25361924°, 79.40946937°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25361924</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.40946937</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 5:01 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.409469366073608,12.253619244334407</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zD1tWr50Hrik">
+        <name>Government Boys H.r.sec School</name>
+        <Style>
+          <IconStyle>
+            <color>ffff901e</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Government Boys H.r.sec School </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25874738°, 79.41935197°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25874738</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41935197</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 4:59 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.41935196518898,12.258747380799818</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDNBavI8edoE">
+        <name>Government Girls Hr.sec School</name>
+        <Style>
+          <IconStyle>
+            <color>ffff901e</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Government Girls Hr.sec School </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25755447°, 79.41972949°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25755447</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41972949</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 4:59 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.419729486107826,12.257554472189154</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDweY560q5VU">
+        <name>Chanakya Matriculation Higher Secondary School</name>
+        <Style>
+          <IconStyle>
+            <color>ffff901e</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Chanakya Matriculation Higher Secondary School</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25321494°, 79.41907972°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25321494</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41907972</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 4:58 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.419079720973969,12.253214939021175</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDeX4chMTzke">
+        <name>Government Hospital Gingee</name>
+        <Style>
+          <IconStyle>
+            <color>ff50af4c</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Government Hospital Gingee</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25202102°, 79.41924736°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25202102</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41924736</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 4:58 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.419247359037399,12.252021022470176</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDX8dvf5niQU">
+        <name>Axis Bank Branch</name>
+        <Style>
+          <IconStyle>
+            <color>ffb85700</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Axis Bank Branch </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25219926°, 79.42296155°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25219926</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.42296155</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 4:57 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.422961547970772,12.252199258434489</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDIi5PBqknSU">
+        <name>HDFC Bank</name>
+        <Style>
+          <IconStyle>
+            <color>ffb85700</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">HDFC Bank </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25186703°, 79.42303497°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25186703</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.42303497</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 4:57 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.423034973442554,12.251867031742297</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDAjJPY75HPE">
+        <name>Indian Oil</name>
+        <styleUrl>#s_Point</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Indian Oil </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25184017°, 79.42253809°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25184017</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.42253809</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 4:56 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.422538094222546,12.25184016526568</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zDkDKJAVwB8k">
+        <name>Sri Krishna Medical</name>
+        <Style>
+          <IconStyle>
+            <color>ff50af4c</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Sri Krishna Medical </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25102893°, 79.41655409°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25102893</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41655409</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 4:56 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.41655408591032,12.251028927439194</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zD5LGMcLCgUu">
+        <name>Surya Hospital</name>
+        <Style>
+          <IconStyle>
+            <color>ff50af4c</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Surya Hospital </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25247316°, 79.41576887°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25247316</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41576887</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 4:49 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.41576886922121,12.252473164939046</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zBg1m7PuDnmk">
+        <name>Sri Ram Textile</name>
+        <Style>
+          <IconStyle>
+            <color>ffad0d6a</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Sri Ram Textile</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25525055°, 79.41703018°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25525055</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41703018</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 3:09 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.417030178010464,12.255250547728027</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zBB25ldu7vGU">
+        <name>Sri Ranga Textiles</name>
+        <Style>
+          <IconStyle>
+            <color>ffad0d6a</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Sri Ranga Textiles</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25540585°, 79.41704124°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25540585</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41704124</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 3:09 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.41704124212265,12.255405847023072</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zB5OF0ZHYQQU">
+        <name>Divya Textiles</name>
+        <Style>
+          <IconStyle>
+            <color>ffad0d6a</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Divya Textiles </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25580392°, 79.41708449°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25580392</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41708449</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 3:07 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.417084492743015,12.255803923912405</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zByXOGik5nUU">
+        <name>Point 20</name>
+        <Style>
+          <IconStyle>
+            <color>ffad0d6a</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Point 20</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25501694°, 79.41705499°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25501694</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41705499</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 3:01 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.417054988443851,12.255016943341973</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zBPZ1SUblA00">
+        <name>Sumangali Textiles</name>
+        <Style>
+          <IconStyle>
+            <color>ffad0d6a</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Sumangali Textiles </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25474402°, 79.41685081°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25474402</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41685081</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 2:57 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.416850805282593,12.254744022387651</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zBfzEnWFvfVk">
+        <name>Vasanth Bhavan</name>
+        <Style>
+          <IconStyle>
+            <color>ff485579</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Vasanth Bhavan </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25409432°, 79.41702414°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25409432</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41702414</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 2:55 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.41702414304018,12.254094318667528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zBdXvvE9dQA0">
+        <name>ICICI Bank</name>
+        <Style>
+          <IconStyle>
+            <color>ffb85700</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">ICICI Bank </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25308356°, 79.41392753°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25308356</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41392753</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 2:43 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.413927532732487,12.253083556042894</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zBaUdrizeiku">
+        <name>Karur Vysya bank</name>
+        <Style>
+          <IconStyle>
+            <color>ffb85700</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Karur Vysya bank </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25289713°, 79.41537727°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25289713</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41537727</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 2:43 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.415377266705036,12.25289712970954</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zBl4Nm1Js4h0">
+        <name>Selvi Cinema Theater</name>
+        <styleUrl>#s_Point</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Selvi Cinema Theater </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25275700°, 79.41440500°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25275700</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41440500</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 2:35 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.414405000000002,12.252757000000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZquctxM1mkk">
+        <name>Regulated Market Committee Gingee</name>
+        <styleUrl>#s_Point</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Regulated Market Committee Gingee</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25120782°, 79.42071151°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25120782</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.42071151</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:53 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.420711509883404,12.251207819355187</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZwlW2gIrrkO">
+        <name>D1 Police Station</name>
+        <Style>
+          <IconStyle>
+            <color>ff3539f5</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">D1 Police Station </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25254983°, 79.41596702°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25254983</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41596702</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:52 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.415967017412186,12.252549832498232</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZz2s2kfaRjk">
+        <name>Gingee Bus Stand</name>
+        <Style>
+          <IconStyle>
+            <color>ff0076ec</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Gingee Bus Stand </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25434332°, 79.41661779°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25434332</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41661779</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:52 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.416617788374424,12.254343322803845</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZDmHxDb0EEO">
+        <name>Hindu Medical</name>
+        <Style>
+          <IconStyle>
+            <color>ff50af4c</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Hindu Medical </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25275297°, 79.41675223°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25275297</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41675223</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:51 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.416752234101295,12.252752968658466</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZh4EM2hhSw0">
+        <name>State Bank of India Bank</name>
+        <Style>
+          <IconStyle>
+            <color>ffb85700</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">State Bank of India Bank </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25315334°, 79.41362478°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25315334</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41362478</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:51 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.413624778389931,12.253153343019553</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZ59DBZ4x7ik">
+        <name>Bike Mechanical Shop</name>
+        <Style>
+          <IconStyle>
+            <color>ff7a6e54</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Bike Mechanical Shop </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25362449°, 79.41026196°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25362449</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.41026196</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:48 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.410261958837509,12.253624486538602</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZpLS8719mkS">
+        <name>TNSTC  Dippo  Gingee</name>
+        <Style>
+          <IconStyle>
+            <color>ff0076ec</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">TNSTC  Dippo  Gingee</SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25330176°, 79.40846924°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25330176</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.40846924</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:47 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.40846923738718,12.253301763147977</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZeOVr8K6SO0">
+        <name>Yamaha Bike Showroom</name>
+        <Style>
+          <IconStyle>
+            <color>ff0045ff</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Yamaha Bike Showroom </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25409760°, 79.40858524°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25409760</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.40858524</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:47 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.408585242927074,12.254097595039269</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZ7BeWQFoLUa">
+        <name>BDO Office</name>
+        <Style>
+          <IconStyle>
+            <color>ff2f6b55</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">BDO Office </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25442785°, 79.40737724°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25442785</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.40737724</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:45 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.407377243041992,12.254427853101951</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZ6tupLMffyU">
+        <name>Tea coffee</name>
+        <Style>
+          <IconStyle>
+            <color>ff0076ec</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Tea coffee </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25516503°, 79.39497437°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25516503</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.39497437</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:44 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.394974373281002,12.255165034786025</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZ2xywpq4FVE">
+        <name>Indian Oil</name>
+        <Style>
+          <IconStyle>
+            <color>ff3539e5</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Indian Oil </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25476728°, 79.39184323°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25476728</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.39184323</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:42 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.391843229532242,12.254767284568841</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zZCx4ad0EdzU">
+        <name>Forest Office</name>
+        <Style>
+          <IconStyle>
+            <color>ff2f6b55</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Forest Office </SimpleData>
+            <SimpleData name="Description" />
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.25460773°, 79.38601714°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.25460773</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.38601714</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">14/09/2025 12:33 pm</SimpleData>
+            <SimpleData name="User">Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.386017136700005,12.254607726</coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Folder>
+</kml>
